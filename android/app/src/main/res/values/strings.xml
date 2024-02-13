@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dental Solutions</string>
+
+    <string name="facebook_app_id">346628487641835</string>
+    <string name="facebook_client_token">1121db52983d56219619a73907610ea5</string>
+</resources>

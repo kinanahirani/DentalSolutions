@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "73946549383",
+    "project_id": "dental-solutions-baf22",
+    "storage_bucket": "dental-solutions-baf22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73946549383:android:d260b4815835386122fc22",
+        "android_client_info": {
+          "package_name": "com.shtibel.dental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73946549383-5tsifil07i66i3b9ngdti6b04944nskm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shtibel.dental",
+            "certificate_hash": "979ec544665d57adb9b6ed24e84ffcae624503af"
+          }
+        },
+        {
+          "client_id": "73946549383-cqh5sqq0o6v4aacfr8u0qocmcvb10f1b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shtibel.dental",
+            "certificate_hash": "427f585f522c39173b68f7c15285e0c13cf01f80"
+          }
+        },
+        {
+          "client_id": "73946549383-l2ojclmh575mgr2a44d27a56v6hbvlus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shtibel.dental",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "73946549383-6tnelna8jgo757nsa7dfoenk7dg5bjnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb-YsLjKHCSJkUZ4ra-ubnc5brjUOeToQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73946549383-6tnelna8jgo757nsa7dfoenk7dg5bjnl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "73946549383-l265um8lih707kl3i52jtsr6hieo1hg7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.dental.solutions"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
